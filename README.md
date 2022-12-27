@@ -1,5 +1,5 @@
-<h1 align="center">Hey, Abdou</h1>
-<h3 align="center">I am a technology lover</h3>
+<h1 align="center">Hi! this is Abdou</h1>
+<h3 align="center">Technology is my passion</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boumesloutabdessamad" alt="boumesloutabdessamad" /></a> </p>
 
