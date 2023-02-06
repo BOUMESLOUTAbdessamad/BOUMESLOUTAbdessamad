@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boumesloutabdessamad" alt="boumesloutabdessamad" /></a> </p>
 
-- 🔭 I’m currently working with ** <a href="https://www.protec-dz.com/">PROTEC Company<a/>**
+- 🔭 I’m currently working with <a href="https://www.protec-dz.com/">PROTEC Company<a/>
 
 - 🌱 I’m currently learning **API dev in Python.**
 
