@@ -1,6 +1,6 @@
 <h1 align="center">Hi! this is Abdou</h1>
 <h3 align="center">Technology is my passion</h3>
-
+<a href="https://app.daily.dev/abdessamadbm"><img src="https://api.daily.dev/devcards/60e88fafb23a44c5b86874b8382ec4ba.png?r=39r" width="400" alt="Abdessamad Boumeslout's Dev Card"/></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boumesloutabdessamad" alt="boumesloutabdessamad" /></a> </p>
 
 - 🔭 I’m currently working with <a href="https://www.protec-dz.com/">PROTEC Company<a/>
