@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdessamadbm31@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/boumeslout-abdessamad-7b9664163/](https://www.linkedin.com/in/boumeslout-abdessamad-7b9664163/)
+- 📄 Know about my experiences on [My LinkedIn Profile](https://www.linkedin.com/in/boumeslout-abdessamed-7b9664163/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
