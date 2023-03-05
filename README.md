@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with <a href="https://www.protec-dz.com/">PROTEC Company<a/>
 
-- 🌱 I’m currently learning **API dev in Python.**
+- 🌱 I earned [Full Stack Web Developer Nanodegree Certficate](https://confirm.udacity.com/Y5WKRGMG)
 
 - 📫 How to reach me **abdessamadbm31@gmail.com**
 
