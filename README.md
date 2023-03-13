@@ -1,17 +1,19 @@
 <h1 align="center">Hi! this is Abdou</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boumesloutabdessamad" alt="boumesloutabdessamad" /></a> </p>
-
+<div align="center">
 <h1>Tech Stack</h1>
 <h3>Front-End developement</h3>
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue)](#)
  
  <hr>
- 
+
+
 <h3>Back-End developement</h3>
 
  [![My Skills](https://skillicons.dev/icons?i=nodejs,python,flask,php,kubernetes,aws,gcp,postgres,mysql)](#)
+
  
  <hr>
  
@@ -32,7 +34,7 @@
  [![My Skills](https://skillicons.dev/icons?i=git,postman)](#)
  
   <hr>
-  
+   </div>
 
   
 
