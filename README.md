@@ -37,17 +37,17 @@
    </div>
 
   
+<div align="center">
+🔭 I’m currently working with <a href="https://www.protec-dz.com/">PROTEC Company<a/>
+ 
+🌱 I earned [Full Stack Web Developer Nanodegree Certificate](https://confirm.udacity.com/Y5WKRGMG)
+ 
+📫 How to reach me **abdessamadbm31@gmail.com**
+ 
+📄 Know about my experiences on [My LinkedIn Profile](https://www.linkedin.com/in/boumeslout-abdessamed/)
 
-- 🔭 I’m currently working with <a href="https://www.protec-dz.com/">PROTEC Company<a/>
-
-- 🌱 I earned [Full Stack Web Developer Nanodegree Certificate](https://confirm.udacity.com/Y5WKRGMG)
-
-- 📫 How to reach me **abdessamadbm31@gmail.com**
-
-- 📄 Know about my experiences on [My LinkedIn Profile](https://www.linkedin.com/in/boumeslout-abdessamed/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://twitter.com/abdessamadbmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdessamadbmt" height="30" width="40" /></a>
 </p>
 
@@ -57,4 +57,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOUMESLOUTAbdessamad&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
