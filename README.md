@@ -5,7 +5,7 @@
 <h1>Tech Stack</h1>
 <h3>Front-End developement</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind)](#)
+ [![My Skills](https://skillicons.dev/icons?i=js,react,next,tailwind)](#)
  
  <hr>
 
