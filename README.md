@@ -5,14 +5,14 @@
 <h1>Tech Stack</h1>
 <h3>Front-End developement</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=js,react,next,tailwind)](#)
+ [![My Skills](https://skillicons.dev/icons?i=next,tailwind)](#)
  
  <hr>
 
 
 <h3>Back-End developement</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=nodejs,python,flask,php,kubernetes,aws,gcp,postgres,mysql)](#)
+ [![My Skills](https://skillicons.dev/icons?i=python,flask,postgres,mysql)](#)
 
  
  <hr>
