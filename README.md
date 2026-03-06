@@ -1,7 +1,7 @@
 <h1 align="center">Hi! this is Abdou</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boumesloutabdessamad" alt="boumesloutabdessamad" /></a> </p>
-<div align="center">
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BOUMESLOUTAbdessamad" alt="boumesloutabdessamad" /></a> </p>
+<div align="center"> -->
 <h1>Tech Stack</h1>
 <h3>Front-End developement</h3>
 
